@@ -15,5 +15,5 @@ This repository contains the material for the workshop Demystifying AI: AI Intro
 
 ## Core Text
 * Concepts & Code Examples from Antonio Gulli's wonderful book AI Design: A Beginner's Guide to Building Intelligence Through Patterns
-* (URL)[https://docs.google.com/document/d/1GWShQ74DwZRUVs4e0yoS3rYmBxUVR-x4N_Xt5xl5dtE/edit?pli=1&tab=t.7hikkyu5asyz]
+* [URL](https://docs.google.com/document/d/1GWShQ74DwZRUVs4e0yoS3rYmBxUVR-x4N_Xt5xl5dtE/edit?pli=1&tab=t.7hikkyu5asyz)
 
